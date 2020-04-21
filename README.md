@@ -1,4 +1,4 @@
-# 🧪📩 notification-tester
+# 📩🧪 notification-tester
 
 ## Usage
 
